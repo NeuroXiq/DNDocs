@@ -1,6 +1,6 @@
 # DNDocs
 
-![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/aea11b69-e457-4917-81ad-5e51c66c4dc0)
+![238906680-f8fbe700-3ef6-4110-b19d-ce9a07248e01](https://github.com/NeuroXiq/DNDocs/assets/19374897/929c263c-3737-48a1-a223-09426aedb579)
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/c13881bd-a747-4c0e-b4a9-1a6923a852ba)
 
 ## DNDocs - Create API Explorer in one minute
