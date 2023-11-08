@@ -29,8 +29,8 @@ Only thing  needed is nuget package name.
 
 ---
 
-Adventages of using Robinia:
-- Robinia generates [sitemap.xml](https://dndocs.com/api/other/sitemaps/sitemap.xml)
+Adventages of using DNDocs:
+- DNDocs generates [sitemap.xml](https://dndocs.com/api/other/sitemaps/sitemap.xml)
 - Very easy configuration - only nuget package needed
 - No need to maintain code for documents generation and publishing
 - Automatic rebuild MD docs from github
@@ -46,7 +46,7 @@ To host API explorer without registering on dndocs, please create a new pull req
 
 ```
 Project Name: project_name
-Robinia Url Prefix: url_prefix
+DNDocs Url Prefix: url_prefix
 Github Url: github_url
 Description: description
 Nuget Package Name: package_name (Install-Package 'package_name')
@@ -58,7 +58,7 @@ For Example:
 
 ```
 Project Name: Arctium Crypto Library
-Robinia Url Prefix: arctium
+DNDocs Url Prefix: arctium
 Github Url: https://github.com/NeuroXiq/Arctium
 Description: Arctium is a simple crypto library. It provides various cryptographic functions, ciphers, connection protocols
 Nuget Package Name: Arctium.Shared
