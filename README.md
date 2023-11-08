@@ -1,7 +1,4 @@
 # DNDocs
-DNDocs is a free online documentation platform for .NET Core projects
-
-# Welcome on dndocs!
 
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/aea11b69-e457-4917-81ad-5e51c66c4dc0)
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/c13881bd-a747-4c0e-b4a9-1a6923a852ba)
