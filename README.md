@@ -5,18 +5,18 @@
 
 ![238906680-f8fbe700-3ef6-4110-b19d-ce9a07248e01](https://github.com/NeuroXiq/DNDocs/assets/19374897/929c263c-3737-48a1-a223-09426aedb579)
 
-## DNDocs - Host.NET API Explorer in one minute!
+## Motivation
+Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
+and what methods are exposed we needed to open open each .cs file just to simply look what functions and methods are there.
+Also there was not any website that allows to just simply generate and host documentation for .NET Core project online.
 
-1. Open dndocs.com and signin with Github account
+## Solution: DNDocs
+
+1. Open https://dndocs.com and signin with Github account
 2. Create a project with Nuget Package Name
 3. Rebuild Project
 
 Docfx API explorer is hosted online.
-
-## Motivation
-Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
-and what methods are exposed I needed to open a code and open each .cs file just to simply look what functions and methods are there.
-Also there was not any website that allows me to just simply generate and host documentation for my .NET Core project online.
 
 Url to documentation can be shared in any form, for example:
 1. Put dndocs API Explorer URL to github project README 
@@ -37,6 +37,7 @@ Adventages of using Robinia:
 - Automatic rebuild Nuget Pakcages to latests
 - No actions needed after creating docs - all upgrades are autmated
 - Supports multiple Docfx templates (darkfx, discordfx, docfx-minimal-main, material, unit)
+- Basic Versioning support
 
 # Create Documentation from Pull Request
 To host API explorer without registering on dndocs, please create a new pull request.
