@@ -3,22 +3,21 @@ DNDocs is a free online documentation platform for .NET Core projects
 
 # Welcome on dndocs!
 
-![dndocs-howtouse](https://github.com/NeuroXiq/dndocs/assets/19374897/e6ae701d-02de-4116-870a-8cc7dcaf5c63)
-![Recording 2023-05-17 114929](https://github.com/NeuroXiq/dndocs/assets/19374897/f8fbe700-3ef6-4110-b19d-ce9a07248e01)
+![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/aea11b69-e457-4917-81ad-5e51c66c4dc0)
+![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/c13881bd-a747-4c0e-b4a9-1a6923a852ba)
 
-## Motivation
-Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
-and what methods are exposed I needed to open a code and open each .cs file just to simply look what functions and methods are there.
-Also there was not any website that allows me to just simply generate and host documentation for my .NET Core project online.
-
-
-## DNDocs - Host documentation in one minute
+## DNDocs - Create API Explorer in one minute
 
 1. Open dndocs.com and signin with Github account
 2. Create a project with Nuget Package Name
 3. Rebuild Project
 
 Docfx API explorer is hosted online.
+
+## Motivation
+Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
+and what methods are exposed I needed to open a code and open each .cs file just to simply look what functions and methods are there.
+Also there was not any website that allows me to just simply generate and host documentation for my .NET Core project online.
 
 Url to documentation can be shared in any form, for example:
 1. Put dndocs API Explorer URL to github project README 
