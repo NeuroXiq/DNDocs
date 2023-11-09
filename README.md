@@ -3,11 +3,6 @@
 
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
 
-## Motivation
-Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
-and what methods are exposed we needed to open open each .cs file just to simply look what functions and methods are there.
-Also there was not any website that allows to just simply generate and host documentation for .NET Core project online.
-
 ## Problem: Host projects API Documentation 
 There is not effortless way to create and host API documentation for .NET Core projects.
 Current tools requires to integrate with build and publishing process to maintain docs up-to-date
@@ -20,6 +15,12 @@ Current tools requires to integrate with build and publishing process to maintai
 
 Docfx API explorer is hosted online.
 
+## Motivation
+Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
+and what methods are exposed we needed to open open each .cs file just to simply look what functions and methods are there.
+Also there was not any website that allows to just simply generate and host documentation for .NET Core project online.
+
+## Share with URL
 Url to documentation can be shared in any form, for example:
 1. Put dndocs API Explorer URL to github project README 
 2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html) _(look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)_
