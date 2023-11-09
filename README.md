@@ -16,7 +16,7 @@ Current tools requires to integrate with build and publishing process to maintai
 Docfx API explorer is hosted online.
 
 ## When I should use DNDocs
-You don't have any API Explorer for Your .NET project: * use https://dndocs.com *
+You don't have any API Explorer for Your .NET project: **Use DNDocs to  generate in one minute**
 
 ## Motivation
 Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
