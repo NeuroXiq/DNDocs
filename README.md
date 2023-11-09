@@ -3,7 +3,7 @@
 
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
 
-## Problem: Host projects API Documentation 
+## Problem: Host .NET API Documentation 
 There is not effortless way to create and host API documentation for .NET Core projects.
 Current tools requires to integrate with build and publishing process to maintain docs up-to-date
 
