@@ -2,9 +2,6 @@
 ## Free online documentation hosting platform for .NET projects
 
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
-![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/f11460ac-0f35-4d37-a019-1070402272fb)
-
-
 
 ## Motivation
 Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
