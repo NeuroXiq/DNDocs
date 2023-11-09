@@ -11,7 +11,7 @@ Current tools requires to integrate with build and publishing process to maintai
 
 1. Open https://dndocs.com and signin with Github account
 2. Create a project with Nuget Package Name
-3. Click save on the form
+3. Click save button
 
 Docfx API explorer is hosted online.
 
