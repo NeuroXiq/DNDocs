@@ -3,7 +3,6 @@
 
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
 
-![238906680-f8fbe700-3ef6-4110-b19d-ce9a07248e01](https://github.com/NeuroXiq/DNDocs/assets/19374897/929c263c-3737-48a1-a223-09426aedb579)
 
 ## Motivation
 Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
