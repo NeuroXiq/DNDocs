@@ -10,11 +10,15 @@ Looking on github C# repositories lots of them did  not have any documentation o
 and what methods are exposed we needed to open open each .cs file just to simply look what functions and methods are there.
 Also there was not any website that allows to just simply generate and host documentation for .NET Core project online.
 
+## Problem: Host projects API Documentation 
+There is not effortless way to create and host API documentation for .NET Core projects.
+Current tools requires to integrate with build and publishing process to maintain docs up-to-date
+
 ## Solution: DNDocs
 
 1. Open https://dndocs.com and signin with Github account
 2. Create a project with Nuget Package Name
-3. Rebuild Project
+3. Click save on the form
 
 Docfx API explorer is hosted online.
 
