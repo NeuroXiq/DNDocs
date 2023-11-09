@@ -1,5 +1,5 @@
 # Welcome on DNDocs!
-## Free online documentation hosting platform
+## Free online documentation hosting platform for .NET projects
 
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
 
