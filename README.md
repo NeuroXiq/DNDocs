@@ -83,6 +83,9 @@ Nuget Package Name: Arctium.Shared
 [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](WWWdndocsCOM/API_EXPLORER_LINK)
 ```
 
+## Report Bugs
+If You find any bugs or unexpected behaviour please report this in 'issues' tab in this repository
+
 ---
 ### Projects list:
 
