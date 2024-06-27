@@ -1,7 +1,8 @@
 # Welcome on DNDocs!
-## Free online documentation hosting platform for .NET projects
-
 ![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
+
+## What is DNDocs?
+DNDocs (Dot Net Docs) is a free documentation hosting platform for .NET projects
 
 ## Problem: Host .NET API Documentation 
 There is not effortless way to create and host API documentation for .NET Core projects.
