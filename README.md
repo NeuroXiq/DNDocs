@@ -9,7 +9,15 @@ There is not effortless way to create and host API documentation for .NET Core p
 Current tools requires to integrate with build and publishing process to maintain docs up-to-date
 
 ## Solution: DNDocs
+Insert following markdown int README.md file: 
 
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/i/nuget/{NugetPackageName}/{NugetPackageVersion})`
+
+For example: 
+
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/i/nuget/Microsoft.EntityFrameworkCore/8.0.3)`
+
+Or create account:
 1. Open https://dndocs.com and signin with Github account
 2. Create a project with Nuget Package Name
 3. Click save button
