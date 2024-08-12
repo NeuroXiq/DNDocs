@@ -32,48 +32,6 @@ Url to documentation can be shared in any form, for example:
 1. Put dndocs API Explorer URL to github project README 
 2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html) _(look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)_
 3. Or anything other
-
-If You have a small or medium size .NET Core project - try DNdocs!\
-DNdocs can be used as a *default project documentation* or *temporary documentation* for projects that does not have  any documentation yet.\
-Only thing  needed is nuget package name.
-
----
-
-Adventages of using DNDocs:
-- DNDocs generates [sitemap.xml](https://dndocs.com/api/other/sitemaps/sitemap.xml)
-- Very easy configuration - only nuget package needed
-- No need to maintain code for documents generation and publishing
-- Automatic rebuild MD docs from github
-- Automatic rebuild Nuget Pakcages to latests
-- No actions needed after creating docs - all upgrades are autmated
-- Supports multiple Docfx templates (darkfx, discordfx, docfx-minimal-main, material, unit)
-- Basic Versioning support
-
-# Create Documentation from Pull Request
-To host API explorer without registering on dndocs, please create a new pull request.
-1. Edit 'projects.md' file and add a new row in the  table
-2. In  commit  message please add following informations:
-
-```
-Project Name: project_name
-DNDocs Url Prefix: url_prefix
-Github Url: github_url
-Description: description
-Nuget Package Name: package_name (Install-Package 'package_name')
-(if project does not have nuget package please add link to binary files like line below)
-Dll Xml files: <url to .dll and .xml files)
-```
-
-For Example:
-
-```
-Project Name: Arctium Crypto Library
-DNDocs Url Prefix: arctium
-Github Url: https://github.com/NeuroXiq/Arctium
-Description: Arctium is a simple crypto library. It provides various cryptographic functions, ciphers, connection protocols
-Nuget Package Name: Arctium.Shared
-```
-
 ---
 > shields.io badge informations:\
 > Badge on shields.io can be generated with any parameters\
