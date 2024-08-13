@@ -11,11 +11,13 @@ Current tools requires to integrate with build and publishing process to maintai
 ## Solution: DNDocs
 Insert following markdown into README.md file: 
 
-`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/i/nuget/{NugetPackageName}/{NugetPackageVersion})`
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://docs.dndocs.com/n/{PackageName}/{PackageVersion}/api/index.html)`
 
 For example: 
 
-`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/i/nuget/Microsoft.EntityFrameworkCore/8.0.3)`
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)]( https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)` 
+
+Result: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)]( https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)
 
 Docfx API explorer is hosted online.
 
