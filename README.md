@@ -17,7 +17,7 @@ For example:
 
 `[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)` 
 
-Result: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)]( https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)
+Result: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)
 
 Docfx API explorer is hosted online.
 
