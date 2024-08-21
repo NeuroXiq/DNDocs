@@ -1,5 +1,5 @@
 # Welcome on DNDocs!
-![image](https://github.com/NeuroXiq/DNDocs/assets/19374897/4a4f0d7b-4903-4b92-b82b-db6073d9ece4)
+![image](https://github.com/user-attachments/assets/6ca87d04-fe41-4481-bc6a-56e8042e7ed1)
 
 ## What is DNDocs?
 DNDocs (Dot Net Docs) is a free documentation hosting platform for .NET projects
