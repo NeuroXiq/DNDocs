@@ -11,11 +11,11 @@ Current tools requires to integrate with build and publishing process to maintai
 ## Solution: DNDocs
 Insert following markdown into README.md file: 
 
-`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://docs.dndocs.com/n/{PackageName}/{PackageVersion}/api/index.html)`
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName={PackageName}&packageVersion={PackageVersion})`
 
 For example: 
 
-`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)]( https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)` 
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)` 
 
 Result: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)]( https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)
 
@@ -32,7 +32,7 @@ Also there was not any website that allows to just simply generate and host docu
 ## Share with URL
 Url to documentation can be shared in any form, for example:
 1. Put dndocs API Explorer URL to github project README 
-2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html) _(look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)_
+2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)]( https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html) _(look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)_
 3. Or anything other
 ---
 > shields.io badge informations:\
