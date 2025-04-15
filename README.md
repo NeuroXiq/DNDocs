@@ -1,14 +1,9 @@
 # Welcome on DNDocs!
 ![image](https://github.com/user-attachments/assets/6ca87d04-fe41-4481-bc6a-56e8042e7ed1)
 
-## What is DNDocs?
-DNDocs (Dot Net Docs) is a free documentation hosting platform for .NET projects
+## Host Your API Docs:
+Badge example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)
 
-## Problem: Host .NET API Documentation 
-There is not effortless way to create and host API documentation for .NET Core projects.
-Current tools requires to integrate with build and publishing process to maintain docs up-to-date
-
-## Solution: DNDocs
 Insert following markdown into README.md file: 
 
 `[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName={PackageName}&packageVersion={PackageVersion})`
@@ -17,9 +12,14 @@ For example:
 
 `[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)` 
 
-Result: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)
+Docfx API explorer of Your project is hosted online.
 
-Docfx API explorer is hosted online.
+## What is DNDocs?
+DNDocs (Dot Net Docs) is a free documentation hosting platform for .NET projects
+
+## Problem: Host .NET API Documentation 
+There is not effortless way to create and host API documentation for .NET Core projects.
+Current tools requires to integrate with build and publishing process to maintain docs up-to-date
 
 ## When I should use DNDocs?
 You don't have any API Explorer for Your .NET project and want to host it in one minute -> use DNDocs
