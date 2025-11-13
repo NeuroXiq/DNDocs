@@ -1,7 +1,7 @@
 # Welcome on DNDocs!
 ![image](https://github.com/user-attachments/assets/6ca87d04-fe41-4481-bc6a-56e8042e7ed1)
 
-## Host Your API Docs:
+## Make Your project more reachable with API docs:
 Badge example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)
 
 Insert following markdown into README.md file: 
@@ -12,7 +12,7 @@ For example:
 
 `[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)` 
 
-Docfx API explorer of Your project is hosted online.
+ API explorer of Your project is hosted online therefore search engines like google/bing can index them.
 
 ## What is DNDocs?
 DNDocs (Dot Net Docs) is a free documentation hosting platform for .NET projects
