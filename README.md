@@ -1,7 +1,7 @@
 # Welcome on DNDocs!
 ![image](https://github.com/user-attachments/assets/6ca87d04-fe41-4481-bc6a-56e8042e7ed1)
 
-## Make Your project more reachable with API docs:
+## Simple way to host API Explorer:
 Badge example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)
 
 Insert following markdown into README.md file: 
