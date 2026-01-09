@@ -15,7 +15,7 @@ For example:
  API explorer of Your project is hosted online therefore search engines like google/bing can index them.
 
 ## What is DNDocs?
-DNDocs (Dot Net Docs) is a free documentation hosting platform for .NET projects
+DNDocs (Dot Net Docs) is a free service to generate and host API documentation for .NET Core projects
 
 ## Problem: Host .NET API Documentation 
 There is not effortless way to create and host API documentation for .NET Core projects.
