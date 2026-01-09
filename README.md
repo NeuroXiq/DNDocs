@@ -2,15 +2,15 @@
 ![image](https://github.com/user-attachments/assets/6ca87d04-fe41-4481-bc6a-56e8042e7ed1)
 
 ## Host API Explorer:
-Badge example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)
+Badge example: [![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)
 
 Insert following markdown into README.md file: 
 
-`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName={PackageName}&packageVersion={PackageVersion})`
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://docs.dndocs.com/n/{PackageName}/{PackageVersion}/api/index.html)`
 
 For example: 
 
-`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://dndocs.com/?packageName=Microsoft.EntityFrameworkCore&packageVersion=8.0.3)` 
+`[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)` 
 
  API explorer of Your project is hosted online therefore search engines like google/bing can index them.
 
