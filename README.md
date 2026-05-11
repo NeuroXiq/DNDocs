@@ -12,7 +12,7 @@ For example:
 
 `[![Static Badge](https://img.shields.io/badge/API%20Docs-DNDocs-190088?logo=readme&logoColor=white)](https://docs.dndocs.com/n/Microsoft.EntityFrameworkCore/8.0.3/api/index.html)` 
 
- API explorer of Your project is hosted online therefore search engines like google/bing can index them.
+ API explorer of Your project is hosted online
 
 ## What is DNDocs?
 DNDocs (Dot Net Docs) is a free service to generate and host API documentation for .NET Core projects
